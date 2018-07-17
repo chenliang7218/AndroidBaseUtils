@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Messages IDs -->
+    <item name="mystatusbarutil_fake_status_bar_view" type="id"/>
+    <item name="mystatusbarutil_translucent_view" type="id"/>
+</resources>
